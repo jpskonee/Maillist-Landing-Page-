@@ -6,7 +6,9 @@ heroku app: https://young-journey-76314.herokuapp.com
 Simple mailing list collection landing page, built by inetegrating mailchip API with Node.js.
 
 Frontend: HTML, CSS, BOOTSTRAP, JAVASCRIPT
+
 Backend: Node.js, Express
+
 Database: Mailchimp
 
 
